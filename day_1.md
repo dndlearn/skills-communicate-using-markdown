@@ -1,6 +1,6 @@
 # This is markdown test
 ##Morning Planning
-
+Add a couple level 2 headings for the names of each of the blog posts.
 ## Review
 
 - [x] Check out the [github blog](https://github.blog/) for topic ideas.
